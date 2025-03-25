@@ -1,4 +1,4 @@
-items = ['Milk', 'Chocolate', 'Banana', 'Mango', 'Orange']
+items = ['Grapes','Milk', 'Chocolate', 'Banana', 'Mango', 'Orange', 'Lemon']
 
 items.reverse()
 
