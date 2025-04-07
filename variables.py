@@ -2,6 +2,6 @@ x = 99
 
 y = 100
 
-z = "Hi Ahnaf"
+z = "PYTHON"
 
 print(z)
