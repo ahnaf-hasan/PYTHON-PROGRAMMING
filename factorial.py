@@ -6,5 +6,5 @@ def factorial(n):
         return n * factorial(n-1)
 
 # For Example
-value = 7
+value = 9
 print(f"Factorial of {value} is {factorial(value)}")
