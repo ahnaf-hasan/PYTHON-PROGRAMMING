@@ -6,7 +6,7 @@ def print_star_grid(rows, cols):
         print()
 
 # Define these
-rows = 3
+rows = 5
 cols = 5
 
 # print it
