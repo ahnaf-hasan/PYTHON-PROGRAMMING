@@ -9,7 +9,7 @@ def is_leap_year(year):
 
 # Example:
 
-year = 2025
+year = 2020
 if is_leap_year(year):
     print(f"{year} is a leap year.")
 else:
