@@ -1,3 +1,3 @@
-age = 24
-txt = f"My name is John, I am {age}"
+age = 27
+txt = f"My name is Ahnaf, I am {age}"
 print(txt)
