@@ -2,6 +2,6 @@ x = 99
 
 y = 100
 
-z = "PYTHON"
+z = "PYTHON PROGRAM"
 
 print(z)
