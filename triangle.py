@@ -4,4 +4,4 @@ def draw_triangle(size):
         print('*' * i)
 
 # Example 
-draw_triangle(7)
+draw_triangle(3)
