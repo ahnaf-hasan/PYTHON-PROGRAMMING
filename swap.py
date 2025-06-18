@@ -1,6 +1,6 @@
 # Let's Start
-a = 99
-b = 100
+a = 1
+b = 9
 
 # After Swapping
 a, b = b, a
