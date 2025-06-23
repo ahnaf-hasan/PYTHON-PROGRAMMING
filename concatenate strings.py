@@ -1,5 +1,5 @@
 a = "Source"
 b = "Code"
-c = "Language"
+c = "Program"
 d = a + " " + b + " " + c
 print(d)
