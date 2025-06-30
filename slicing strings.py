@@ -1,2 +1,2 @@
 b = "Hello, World!"
-print(b[1:9])
+print(b[3:6])
