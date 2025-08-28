@@ -1,5 +1,4 @@
-a = "Source"
-b = "Code"
-c = "Program"
-d = a + " " + b + " " + c
-print(d)
+a = "Python"
+b = "Programming "
+c = a + " " + b
+print(c)
